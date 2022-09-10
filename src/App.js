@@ -9,7 +9,11 @@ var flagDictionary = {
   "🏳️": "White Flag",
   "🏳️‍🌈": "Rainbow Flag",
   "🏳️‍⚧️": "Transgender Flag",
-  "🏴‍☠️": "Pirate Flag"
+  "🏴‍☠️": "Pirate Flag",
+  "🇮🇳": "Indian Flag",
+  "🇮🇪": "Ireland Flag",
+  "🇪🇬": "Egypt Flag",
+  "🇫🇷": "France Flag"
 };
 var flagWeKnow = Object.keys(flagDictionary);
 
